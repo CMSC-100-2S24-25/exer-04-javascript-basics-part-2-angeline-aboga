@@ -24,7 +24,7 @@ function generateUniqueID(fname, lname) {
 
 function addAccount(input) {
 // fname, lname, email, age
-    console.log("array length: ", input.length);
+    
     // input array must have four elements
     if (input.length < 4) {
         console.log("failed at condition 1 - input has less than four fields");

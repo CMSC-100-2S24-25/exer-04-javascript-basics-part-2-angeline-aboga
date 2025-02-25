@@ -18,6 +18,8 @@ C-1L
 
 # What are your key takeaways from this exercise:
 
+Packages are very useful and should be utilized instead of creating all functions from scratch. CommonJS and ES Modules are two different module systems with their own advantages and disadvantages and they can never be used at the same time.
+
 # References:
 
 - https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_substring <!-- javascript substring -->
