@@ -22,5 +22,6 @@ Packages are very useful and should be utilized instead of creating all function
 
 # References:
 
+- lab handouts <!-- general -->
 - https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_substring <!-- javascript substring -->
 - https://stackoverflow.com/questions/2856059/passing-an-array-as-a-function-parameter-in-javascript <!-- array function parameter -->
