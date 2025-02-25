@@ -7,6 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Trisha Angeline Aboga",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "uuid": "^11.1.0",
+    "validator": "^13.12.0"
+  }
 }
